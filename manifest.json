@@ -1,0 +1,22 @@
+{
+  "name": "MyOnlyLaundry",
+  "short_name": "laundry",
+  "description": "Membuat Aplikasi Laundry dengan javascript PWA",
+  "icons": [
+    {
+      "src": "images/Laundry.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/images/Laundry-192.png",
+      "sizes": "192x92",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/index.html",
+  "display": "standalone",
+  "theme_color": "#1F3641",
+  "background_color": "#ffffff",
+  "prefer_related_applications": false
+}
