@@ -8,7 +8,7 @@ const toCache = [
   "css/responsive.css",
   "css/font-awesome.min.css",
   "images/Laundry.png",
-  "images/Laundry-143.png",
+  "images/Laundry-192.png",
   "images/Clothes.png",
   "images/s1.png",
   "images/s2.png",
