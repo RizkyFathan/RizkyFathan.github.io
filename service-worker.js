@@ -2,10 +2,6 @@ const CACHE_NAME = "SW-001";
 const toCache = [
   "/",
   "manifest.json",
-  "css/style.scss",
-  "fonts/fontawesome-webfront.ttf",
-  "fonts/fontawesome-webfront.woff",
-  "fonts/fontawesome-webfront.woff2",
   "css/bootstrap.css",
   "css/style.css.map",
   "css/styles.css",
